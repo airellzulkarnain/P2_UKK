@@ -1,0 +1,14 @@
+{
+   "database": {
+      "user": "airell",
+      "password": "airell271005",
+      "host": "localhost",
+      "database": "P2_UKK"
+   }, 
+   "CORS": {
+      "allow_origins": ["*"], 
+      "allow_credentials": true, 
+      "allow_headers": ["*"],
+      "allow_methods": ["*"]
+   }
+}
